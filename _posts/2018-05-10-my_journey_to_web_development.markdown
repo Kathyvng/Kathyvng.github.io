@@ -11,7 +11,9 @@ Moving the San Francisco, I always had an affinity to things "disruptive". After
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b8cpwttrAxs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
-
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DF9qFKfBmbk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+```
 In the midst of all that, I stumbled upon Flatiron school. Did some research on the co-founder Avi and his story was inspired by the "disruptive" nature of education. I decided to take a leap of faith in the school, that in which I find both challenging and rewarding thus far. I am taking Flatiron program to help teach myself not only to code but to also develop a deep meaning into it's technical aspect. Gaining a appreciation for the craft is key in knowing how to leverage it's usage in the business world. Especially when strategically finding ways of breaking an old system. You must break things apart to truely understand its nature. All building blocks of matter started with a tiny atom. This is my tiny atom, I hope you join me in my journey to building something bigger for the world to share. 
 
 
