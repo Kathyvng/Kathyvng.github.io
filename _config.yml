@@ -1,10 +1,10 @@
 # Site settings
-title: Digital Landscapes 
+title: My digital garden 
 header-img: img/home-bg.png
 email: kathyvng@gmail.com
 copyright_name: Kathyvng
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my Digital world
+  Business+Tech+Web development+Information systems
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Kathyvng
